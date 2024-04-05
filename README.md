@@ -35,7 +35,6 @@ This college information chatbot project offers a comprehensive solution for str
 Flow chat of what access does the ChatBot User and Admin have - 
 ![image](https://github.com/Manishakalagoni/CLOUD-BASED-STUDENT-INFORMATION-CHATBOT/assets/114309498/7a8f7105-31d9-4fa2-a0b5-e77df20079e5)
 
-![image](https://github.com/Manishakalagoni/CLOUD-BASED-STUDENT-INFORMATION-CHATBOT/assets/114309498/5158140a-ae10-428d-a5fe-704fb7c2fb5d)
 
 
 
